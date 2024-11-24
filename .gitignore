@@ -1,0 +1,7 @@
+source/
+testbench
+solution1/
+.cproject
+.settings/MNIST8*
+.apc
+.project
