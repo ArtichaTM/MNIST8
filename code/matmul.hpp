@@ -12,7 +12,6 @@ int nn_inference(float input_img[n_inputs]);
 
 
 namespace weights {
-
 	const float layer1_bias[n_layer1] = {
 			 0.0384,  0.0063,  0.1373, -0.0413,  0.4755,  0.0238,  0.3396,  0.2192,  0.1998, -0.1032, -0.0765, -0.3732, -0.1300,  0.2196, -0.0409,  0.3026
 	};
