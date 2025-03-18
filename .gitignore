@@ -5,3 +5,4 @@ solution1/
 .settings/MNIST8*
 .apc
 .project
+.vitis_hls_log_all.xml
